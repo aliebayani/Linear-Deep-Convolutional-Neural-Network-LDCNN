@@ -5,6 +5,6 @@
 
 
 
-<p>
-  In our research, for the PTB Diagnostic ECG Dataset, we've used an <a href=https://www.kaggle.com/datasets/shayanfazeli/heartbeat> annotated dataset </a> of heartbeats already preprocessed by the authors of <a href=https://doi.org/10.1109/ICHI.2018.00092> this paper </a> to see if we can train a model to detect abnormal heartbeats.
+<p aligh = "center">
+  In our research, for the PTB Diagnostic ECG Dataset, we've used an <a href=https://www.kaggle.com/datasets/shayanfazeli/heartbeat>annotated dataset</a> of heartbeats already preprocessed by the authors of <a href=https://doi.org/10.1109/ICHI.2018.00092>this paper</a> to see if we can train a model to detect abnormal heartbeats.
 </p>
