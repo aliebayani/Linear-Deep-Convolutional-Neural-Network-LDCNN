@@ -22,7 +22,7 @@ In our research, we developed a novel <strong>one-dimensional deep neural networ
 </p>
 
 <table style="width:100%">
-  <caption>Overview of the MIT-BIH Arrhythmia Dataset</caption>
+  <caption>An overview of the types of heartbeats we used in the MIT-BIH Arrhythmia Dataset.</caption>
   <tr>
     <th>Classes</th>
     <th>Description</th>
@@ -52,6 +52,25 @@ In our research, we developed a novel <strong>one-dimensional deep neural networ
     <td>V</td>
     <td>Premature ventricular contraction</td>
     <td>2546</td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <caption>An overview of the types of heartbeats we used in the MIT-BIH Arrhythmia Dataset.</caption>
+  <tr>
+    <th>Classes</th>
+    <th>Description</th>
+    <th>Count</th>
+  </tr>
+  <tr>
+    <td>normal</td>
+    <td>Normal beat, Healthy controls</td>
+    <td>4046</td>
+  </tr>
+  <tr>
+    <td>abnormal</td>
+    <td>Myocardial infarction, Cardiomyopathy/Heart failure, Bundle branch block, Dysrhythmia, Myocardial hypertrophy, Valvular heart disease, Myocarditis, Miscellaneous</td>
+    <td>10506</td>
   </tr>
 </table>
 
