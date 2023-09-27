@@ -54,9 +54,9 @@ In our research, we developed a novel <strong>one-dimensional deep neural networ
     <td>2546</td>
   </tr>
 </table>
-
+<br>
 <table style="width:100%">
-  <caption>An overview of the types of heartbeats we used in the MIT-BIH Arrhythmia Dataset.</caption>
+  <caption>An overview of the types of heartbeats we used in the PTB Diagnostic ECG Dataset.</caption>
   <tr>
     <th>Classes</th>
     <th>Description</th>
