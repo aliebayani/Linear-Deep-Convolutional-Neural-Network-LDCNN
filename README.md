@@ -73,5 +73,3 @@ In our research, we developed a novel <strong>one-dimensional deep neural networ
     <td>10506</td>
   </tr>
 </table>
-
-# Results
