@@ -21,35 +21,37 @@ In our research, we developed a novel <strong>one-dimensional deep neural networ
   Also for the PTB Diagnostic ECG Dataset, we've used an <a href=https://www.kaggle.com/datasets/shayanfazeli/heartbeat>annotated dataset</a> of heartbeats already preprocessed by the authors of <a href=https://doi.org/10.1109/ICHI.2018.00092>this paper</a> to see if we can train a model to detect abnormal heartbeats.
 </p>
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 5px;
-  text-align: left;
-}
-</style>
-</head>
-<body>
-
-<h2>Table Caption</h2>
-<p>To add a caption to a table, use the caption tag.</p>
-
 <table style="width:100%">
-  <caption>Monthly savings</caption>
+  <caption>Overview of the MIT-BIH Arrhythmia Dataset</caption>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>Classes</th>
+    <th>Description</th>
+    <th>Count</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>N</td>
+    <td>Normal beat</td>
+    <td>75011</td>
   </tr>
   <tr>
-    <td>February</td>
-    <td>$50</td>
+    <td>L</td>
+    <td>Left bundle branch block beat</td>
+    <td>8071</td>
+  </tr>
+  <tr>
+    <td>R</td>
+    <td>Right bundle branch block beat</td>
+    <td>7255</td>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>Atrial premature beat</td>
+    <td>7129</td>
+  </tr>
+  <tr>
+    <td>V</td>
+    <td>Premature ventricular contraction</td>
+    <td>2546</td>
   </tr>
 </table>
 
