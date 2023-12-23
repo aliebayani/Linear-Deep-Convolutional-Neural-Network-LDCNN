@@ -18,7 +18,7 @@ In our research, we developed a novel <strong>one-dimensional deep neural networ
 </p>
 
 <p align = "justify">
-  Also for the PTB Diagnostic ECG Dataset, we've used an <a href=https://www.kaggle.com/datasets/shayanfazeli/heartbeat>annotated dataset</a> of heartbeats already preprocessed by the authors of <a href=https://doi.org/10.1109/ICHI.2018.00092>this paper</a> to see if we can train a model to detect abnormal heartbeats.
+  Also for the PTB Diagnostic ECG Dataset, we've used an <a href=https://www.kaggle.com/datasets/shayanfazeli/heartbeat>annotated dataset</a> of heartbeats to see if we can train a model to detect abnormal heartbeats.
 </p>
 
 <table style="width:100%">
