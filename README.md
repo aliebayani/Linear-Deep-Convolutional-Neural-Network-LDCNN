@@ -17,9 +17,9 @@ In our research, we developed a novel <strong>one-dimensional deep neural networ
   The original datasets used are <a href=https://physionet.org/content/mitdb/1.0.0/>MIT-BIH Arrhythmia</a> and <a href=https://www.physionet.org/content/ptbdb/1.0.0/>PTB Diagnostic ECG</a> that were preprocessed.
 </p>
 
-<p align = "justify">
+<!-- <p align = "justify">
   Also for the PTB Diagnostic ECG Dataset, we've used an <a href=https://www.kaggle.com/datasets/shayanfazeli/heartbeat>annotated dataset</a> of heartbeats to see if we can train a model to detect abnormal heartbeats.
-</p>
+</p> -->
 
 <table style="width:100%">
   <caption>An overview of the types of heartbeats we used in the MIT-BIH Arrhythmia Dataset.</caption>
