@@ -76,4 +76,10 @@ In our research, we developed a novel <strong>one-dimensional deep neural networ
 
 <br>
 <br>
-Ali Bayani
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+
+© 2023 ALI BAYANI
