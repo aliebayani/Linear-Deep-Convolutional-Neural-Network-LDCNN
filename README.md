@@ -74,9 +74,6 @@ In our research, we developed a novel <strong>one-dimensional deep neural networ
   </tr>
 </table>
 
-<br>
-<br>
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
