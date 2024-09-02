@@ -1,14 +1,18 @@
-# Introduction
+# LDCNN: A new arrhythmia detection technique with ECG signals using a linear deep convolutional neural network
+
+# Introdction
 <p align = "justify"> 
-  The Electrocardiogram (ECG) is an essential and widely used instrument for diagnosing cardiovascular diseases. It involves the recording of electrical signals produced by the heart using electrodes, which depict the activity of cardiac muscles during both contraction and relaxation phases. ECG plays a crucial role in detecting irregular cardiac activity, myocardial infarctions, and various other cardiac conditions. 
+  The Electrocardiogram (ECG) is an essential and widely used instrument for diagnosing cardiovascular diseases. It involves the recording of electrical signals produced by the heart using electrodes, which depict the activity of cardiac muscles during both the contraction and relaxation phases. ECG plays a crucial role in detecting irregular cardiac activity, myocardial infarctions, and various other cardiac conditions. 
 </p>
 
+<p>If you use this project please cite our paper: https://doi.org/10.14814/phy2.16182</p>
+
 <p align = "justify">
-In our research, we developed a novel <strong>one-dimensional deep neural network technique called LDCNN</strong> to identify arrhythmias from ECG signals.
+In <a heref=https://doi.org/10.14814/phy2.16182>our research</a>, we developed a novel <strong>one-dimensional deep neural network technique called LDCNN</strong> to identify arrhythmias from ECG signals.
 </p>
 
 <p>
-  In addition to the CNN model, we've implemented the various machine learning techniques for the datasets.
+  In addition to the CNN model, we've implemented various machine learning techniques for the datasets.
 </p>
 
 # Dataset
